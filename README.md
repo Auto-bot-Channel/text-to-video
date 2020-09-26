@@ -6,6 +6,7 @@ just clone the project and open text.txt file and add the text you want to make 
 ~$ python3 app.py
 ```
 ---
+**Watch on youtube!!**
 [![Video link](thumb.jpeg)](https://www.youtube.com/watch?v=KAmYMtVasnI)
 
 ## MIT License
